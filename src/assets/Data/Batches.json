@@ -1,0 +1,6 @@
+[
+    {"Name":"PPA", "Fees":9000, "Duration":4},
+    {"Name":"LB", "Fees":11500, "Duration":4},
+    {"Name":"Web", "Fees":11000, "Duration":4},
+    {"Name":"Project", "Fees":10000, "Duration":4}
+]
